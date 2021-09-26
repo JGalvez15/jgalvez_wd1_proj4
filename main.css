@@ -1,5 +1,20 @@
 @charset "UTF-8";
 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
+.Titlecard {color: hsl(9, 100%, 64%);}
+
+.Writing {color: hsl(9, 100%, 64%);}
+
 body {
   background: url("images/warning_background.png");
   background-repeat: no-repeat;
