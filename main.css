@@ -3,6 +3,7 @@
 .flex-container {
   display: flex;
   flex-flow: row nowrap;
+  justify-content: space-between;
 }
 
 @media screen (max-width: 800px) {
