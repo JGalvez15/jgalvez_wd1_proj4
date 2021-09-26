@@ -9,12 +9,13 @@
 @media screen (max-width: 800px) {
   .flex-container {
     flex-flow: column wrap;
+    justify-content: space-between;
   }
 }
 
 .Titlecard {
   color: hsl(9, 100%, 64%);
-  flex-grow: 8;
+  justify-content: center;
 }
 
 .Writing {color: hsl(9, 100%, 64%);}
