@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+{box-sizing: border-box;}
+
 .flex-container {
   display: flex;
   flex-flow: row nowrap;
