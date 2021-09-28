@@ -13,11 +13,6 @@
   }
 }
 
-#Titlecard {
-  color: hsl(9, 100%, 64%);
-  justify-content: center;
-}
-
 body {
   background: url("images/warning_background.png");
   background-repeat: no-repeat;
