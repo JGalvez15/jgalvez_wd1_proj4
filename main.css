@@ -13,7 +13,7 @@
   }
 }
 
-.Titlecard {
+#Titlecard {
   color: hsl(9, 100%, 64%);
   justify-content: center;
 }
